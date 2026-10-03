@@ -2,6 +2,16 @@
 
 > Aplicação web interativa para gestão de agendamentos e exibição de serviços de estética técnica automotiva especializada na linha BYD. Desenvolvida com foco em alta performance visual, design escuro minimalista (*dark monochrome*) e gerenciamento de estado global reativo.
 
+  
+---
+
+## Integrante do Projeto
+
+* **Nome:** Eduardo Lima de Souza
+* **RM:** 570412\
+* **Instituição:** FIAP — CP5
+
+  
 ---
 
 ## Demonstração & Arquitetura Visual
